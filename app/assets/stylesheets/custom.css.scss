@@ -63,11 +63,12 @@
 }
 .jumbotron {
   text-align: center;
-  background-image: asset-url('1.jpg');
+  background-image: asset-url('sunset.jpg');
   background-size: cover;
   color: #fff;
   font-family: 'Helvetica Neue' !important;
   font-stretch: expanded;
+  width: auto;
   padding-top: 2px;
   padding-bottom: 2px;
   margin-left: 15px;
